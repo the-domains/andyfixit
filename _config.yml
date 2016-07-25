@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.7244898
+  brandStrength: 0.5865975
+  lightness: 0.697637
+  rhythmicContrast: 0.6740065
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.4892589
+name: AndyFixIt
