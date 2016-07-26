@@ -1,14 +1,28 @@
+name: AndyFixIt
+favicon: null
 layout_spectrum: 0
+typography_spectrum: 0.4892589
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7244898
+  brandColors:
+    - '#ffffff'
+    - '#f9ccab'
+    - '#5c91c3'
+    - '#00294b'
+    - '#a6660e'
   brandStrength: 0.5865975
   lightness: 0.697637
+  saturation: 0.7244898
   rhythmicContrast: 0.6740065
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-typography_spectrum: 0.4892589
-name: AndyFixIt
+purpose: []
