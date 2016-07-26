@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Another test. How well does this work
-datePublished: '2016-07-26T02:36:15.037Z'
-dateModified: '2016-07-26T02:36:11.400Z'
+datePublished: '2016-07-26T04:15:55.326Z'
+dateModified: '2016-07-26T02:38:03.061Z'
 title: ''
 author: []
 via: {}
 authors: []
 publisher: {}
-starred: false
 sourcePath: _posts/2016-07-26-another-test-how-well-does-this-work.md
+starred: true
 url: another-test-how-well-does-this-work/index.html
 _type: Article
 
