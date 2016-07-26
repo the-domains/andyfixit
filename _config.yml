@@ -1,19 +1,4 @@
-name: AndyFixIt
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.4892589
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.697637
   saturation: 0.7244898
   rhythmicContrast: 0.6740065
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: AndyFixIt
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: This is a tagline
 purpose: []
